@@ -1,0 +1,10 @@
+target
+logs
+*.iml
+*.class
+*.log
+*.idea
+scalastyle-output.xml
+native-libs
+
+
